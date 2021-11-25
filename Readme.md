@@ -1,6 +1,6 @@
 # Starter Template for Small Projects or Static Websites
 
-This is a starter template for a small projects or static websites.
+This is a starter template for small projects or static websites.
 
 Here Tailwind CSS is set up and configured with PostCSS and Vite (A build tool that significantly improves the front-end development experience).
 
