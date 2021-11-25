@@ -36,17 +36,7 @@ npm run generate
 npm run develop
 ```
 
-## How to Use
-
-1. Go to the `index.html` and remove the `<h1>` element and start building your project.
-
-2. If you need to add more HTML pages, add them to the `root` folder.
-
-3. To extract classes and use the `@apply` directive, edit the custom css file in `src > tailwind.css` file. Add any amount of custom css in this file then run `npm run generate` to generate a new `style.css` file.
-
-**NOTE:** DO NOT edit the file `style.css` directly. The css in that file is generated from `src > tailwind.css` using Tailwind CSS when you type the `npm run generate` command.
-
-## Optimize for production
+6. Optimize for production
 
 When it is time to deploy the project to production, simply run the following command
 
