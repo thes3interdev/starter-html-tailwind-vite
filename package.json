@@ -5,7 +5,7 @@
 	"main": "index.html",
 	"scripts": {
 		"generate": "tailwindcss -i ./src/tailwind.css -o ./style.css",
-		"develop": "vite",
+		"dev": "vite",
 		"build": "NODE_ENV=production tailwindcss -i ./src/tailwind.css -o ./style.css && vite build",
 		"serve": "vite preview"
 	},
