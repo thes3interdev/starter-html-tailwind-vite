@@ -33,7 +33,7 @@ npm run generate
 5. Run the project using the Vite server
 
 ```
-npm run develop
+npm run dev
 ```
 
 6. Optimize for production
